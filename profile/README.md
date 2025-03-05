@@ -1,4 +1,7 @@
-<img src="https://github.com/user-attachments/assets/c74d9a0b-880f-4296-9832-6676a09b72f8" alt="logo" width="250" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/8923330e-8964-4913-8877-7ff335612b25">
+  <img alt="io.finnet logo" src="https://github.com/user-attachments/assets/c74d9a0b-880f-4296-9832-6676a09b72f8" width="250">
+</picture>
 
 # Welcome
 
