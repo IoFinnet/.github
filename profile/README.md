@@ -47,9 +47,9 @@ From crypto enthusiasts and startups securing their holdings to enterprises mana
 
 ## Essential Resources
 * [**Official Website**](https://iofinnet.com) – Explore our complete ecosystem
-* [**Knowledge Center**](https://support.iofinnet.com/helpcenter) – Access comprehensive blogs, FAQs, and detailed guides
+* [**Knowledge Center**](https://support.iofinnet.com/helpcenter) – Access comprehensive detailed user guides and support resources
 * [**Support Hub**](https://www.iofinnet.com) – Get expert assistance through our official channel (Click CONTACT US)
-* [**Developer Portal**](https://docs.iofinnet.com) – Dive into our extensive [API documentation](https://docs.iofinnet.com/reference/core-introduction) and [implementation guides](https://docs.iofinnet.com/docs/key-concepts)
+* [**Developer Portal**](https://docs.iofinnet.com) – Dive into our extensive [API documentation](https://docs.iofinnet.com/reference/core-introduction) and [technical guides](https://docs.iofinnet.com/docs/key-concepts)
 
 ## Join the Community
 
