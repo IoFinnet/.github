@@ -39,10 +39,10 @@ Built with scalability and trustlessness in mind, io.finnet redefines digital as
 * Experience our sophisticated yet intuitive interface with military-grade security features including secure enclaves and biometric protection
 
 **Transparent & Verified:**
-* Built on rigorously audited, open technology (full documentation available)
-* Zero registration barriers – deploy immediately and take control of your assets
+* Built on rigorously independently audited, open technology (full documentation available)
+* Zero registration barriers – get started immediately and take control of your assets
 
-## Perfect for Everyone
+**Perfect for Anyone**
 
 From crypto enthusiasts and startups securing their holdings to enterprises managing institutional-scale digital assets, io.finnet delivers superior security, speed and versatility compared to conventional mobile, desktop and hardware alternatives.
 
