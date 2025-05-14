@@ -32,6 +32,7 @@ Built with scalability and trustlessness in mind, io.finnet redefines digital as
 * Eliminates vulnerability points through advanced tMPC technology
 * Enables frictionless, trustless settlements without middlemen
 * Seamlessly integrates with DeFi and diverse assets (a capability many multi-sig solutions lack)
+* Easy disaster recovery process to recover private keys
 
 **Truly Unified Experience:**
 * Control your assets across any environment – mobile, desktop, or enterprise infrastructure
